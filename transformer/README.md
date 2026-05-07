@@ -1,4 +1,4 @@
-## 📑 Transformer
+## Transformer
 * **Original Repository:** [hyunwoongko/transformer](https://github.com/hyunwoongko/transformer)
 * **Original Author:** [Hyunwoong Ko](https://github.com/hyunwoongko)
 * **License:** Apache License 2.0
